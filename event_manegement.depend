@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1714147401 source:d:\nsu\cse225\event_manegement\main.cpp
+	<iostream>
+	<string>
+	"Event.h"
+	"EventLinkedList.h"
+
+1714138045 d:\nsu\cse225\event_manegement\eventlinkedlist.h
+	"Event.h"
+
+1714141982 d:\nsu\cse225\event_manegement\event.h
+	<string>
+	<vector>
+
+1714143800 source:d:\nsu\cse225\event_manegement\event.cpp
+	"Event.h"
+	<iostream>
+	<algorithm>
+
+1714147515 source:d:\nsu\cse225\event_manegement\eventlinkedlist.cpp
+	"EventLinkedList.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
